@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>BonitoOS ERP Updates</title>
     <link>https://github.com/sebaszap123-dev/bonitoos-erp-releases</link>
-    <description>Feed de actualizaciones automáticas de BonitoOS ERP</description>
+    <description>Feed de actualizaciones automaticas de BonitoOS ERP</description>
     <item>
-      <title>Version 1.0.0</title>
-      <pubDate>Thu, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Version 1.1.0</title>
+      <pubDate>Fri, 10 Apr 2026 20:19:02 +0000</pubDate>
       <enclosure
-        url="https://github.com/sebaszap123-dev/bonitoos-erp-releases/releases/download/v1.0.0/bonitoos_erp_v1.0.0_setup.exe"
-        sparkle:version="1.0.0"
+        url="https://github.com/sebaszap123-dev/bonitoos-erp-releases/releases/download/v1.1.0/bonitoos_erp_v1.1.0_setup.exe"
+        sparkle:version="1.1.0"
         type="application/octet-stream"
-        length="0"
+        length="15941240"
       />
     </item>
   </channel>
