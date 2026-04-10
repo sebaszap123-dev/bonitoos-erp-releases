@@ -6,12 +6,12 @@
     <description>Feed de actualizaciones automaticas de BonitoOS ERP</description>
     <item>
       <title>Version 1.1.0</title>
-      <pubDate>Fri, 10 Apr 2026 20:19:02 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2026 20:52:07 +0000</pubDate>
       <enclosure
         url="https://github.com/sebaszap123-dev/bonitoos-erp-releases/releases/download/v1.1.0/bonitoos_erp_v1.1.0_setup.exe"
         sparkle:version="1.1.0"
         type="application/octet-stream"
-        length="15941240"
+        length="15941582"
       />
     </item>
   </channel>
