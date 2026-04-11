@@ -5,13 +5,14 @@
     <link>https://github.com/sebaszap123-dev/bonitoos-erp-releases</link>
     <description>Feed de actualizaciones automaticas de BonitoOS ERP</description>
     <item>
-      <title>Version 1.1.0</title>
-      <pubDate>Fri, 10 Apr 2026 20:52:07 +0000</pubDate>
+      <title>Version 1.1.1</title>
+      <pubDate>Sat, 11 Apr 2026 00:25:51 +0000</pubDate>
       <enclosure
-        url="https://github.com/sebaszap123-dev/bonitoos-erp-releases/releases/download/v1.1.0/bonitoos_erp_v1.1.0_setup.exe"
-        sparkle:version="1.1.0"
+        url="https://github.com/sebaszap123-dev/bonitoos-erp-releases/releases/download/v1.1.1/bonitoos_erp_v1.1.1_setup.exe"
+        sparkle:version="1.1.1+1"
+        sparkle:shortVersionString="1.1.1"
         type="application/octet-stream"
-        length="15941582"
+        length="15939283"
       />
     </item>
   </channel>
